@@ -1,0 +1,19 @@
+RANDOMLY SELECTED RESTAURANTS IN INDY,DISTANCE FROM HOUSING,PRICE RANGE(USD) PER PERSON,SATURDAY OPENING HOURS
+St. Elmo Steak House,2.1,24 to 40,3:00pm to 11:00pm
+Bazbeaux Pizza,1.9,12 and under,11:00am to 10:00pm
+BRU Burger Bar,2,12 to 24,11:00am to 11:00pm
+Yats,2.9,12 and under,11:00am to 10:00pm
+Shapiro's Deli,2.6,12 and under,10:00am to 7:30pm
+Jockamo Upper Crust Pizza,6.4,12 to 24,11:00am to 11:00pm
+Mama Carolla's Old Italian Restaurant,7.5,12 to 24,5:00pm to 9:30pm
+Harry and Izzy's,2.1,24 to 40,11:00am to 12:00am
+Bluebeard,3.0,12 to 24,12:00pm to 10:00pm
+Livery,2.7,24 to 40,4:00pm to 11:00pm
+The Rathskeller,2.6,24 to 40,11:00am to 10:00pm
+Goose the Market,3.6,12 and under,10:00am to 6:00pm
+Rick's Cafe Boatyard,9.7,12 to 24,11:00am to 10:00pm
+Caplingers Fresh Catch,16,12 and under,N/A
+Laria's Italian Restaurant,2.9,12 to 24,4:00pm to 9:30pm
+Union 50,2.5,12 to 24,5:00pm to 12:00am
+Mug 'N Bun,3.8,12 and under,1:00pm to 11:30pm
+Big Lug Canteen,2,12 to 24,11:30am to 9:00pm
